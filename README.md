@@ -1,2 +1,1 @@
-# Capstone I
 # Team Capstonians
